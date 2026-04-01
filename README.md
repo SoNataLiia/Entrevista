@@ -1,6 +1,10 @@
-Entrevista
+# Entrevista
+
 A collection of Java solutions for common string manipulation interview problems.
-📁 Project Structure
+
+## 📁 Project Structure
+
+```
 Entrevista/
 ├── src/
 │   ├── ContarElNumeroDeVocales.java   # Count vowels in a string
@@ -14,30 +18,33 @@ Entrevista/
 │   ├── ReverseString.java             # Reverse a string
 │   ├── StringManipulator.java         # String manipulator utilities
 │   └── StringTransformer.java         # String transformation utilities
-🚀 Topics Covered
+```
 
-Palindrome detection — checks whether a given string reads the same forwards and backwards
-Vowel counting — counts the number of vowels in a string
-Word counting — counts occurrences of a word within a text
-String reversal — reverses a given string
-String splitting — splits strings using delimiters
-URL text replacement — replaces substrings within URL strings
-Ternary operator usage — demonstrates conditional expressions in Java
-General string manipulation — various utilities for transforming and processing strings
+## 🚀 Topics Covered
 
-🛠️ Requirements
+- **Palindrome detection** — checks whether a given string reads the same forwards and backwards
+- **Vowel counting** — counts the number of vowels in a string
+- **Word counting** — counts occurrences of a word within a text
+- **String reversal** — reverses a given string
+- **String splitting** — splits strings using delimiters
+- **URL text replacement** — replaces substrings within URL strings
+- **Ternary operator usage** — demonstrates conditional expressions in Java
+- **General string manipulation** — various utilities for transforming and processing strings
 
-Java 8+
-IntelliJ IDEA (project includes .idea configuration)
+## 🛠️ Requirements
 
-▶️ How to Run
+- Java 8+
+- IntelliJ IDEA (project includes `.idea` configuration)
 
-Clone the repository:
+## ▶️ How to Run
 
-bash   git clone https://github.com/SoNataLiia/Entrevista.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SoNataLiia/Entrevista.git
+   ```
+2. Open the project in IntelliJ IDEA or any Java IDE.
+3. Run `Main.java` as the entry point.
 
-Open the project in IntelliJ IDEA or any Java IDE.
-Run Main.java as the entry point.
+## 👤 Author
 
-👤 Author
-Nataliia Sokhatska — SoNataLiia
+**Nataliia Sokhatska** — [SoNataLiia](https://github.com/SoNataLiia)
